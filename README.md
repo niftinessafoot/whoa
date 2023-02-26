@@ -1,5 +1,11 @@
-# @afoot/whoa
+# Whoa
+A throttle/debounce library. Use it to time events and reduce server loads.
 
+## Wait, _another_ one?
+Yeah. These things are like birdhouses. Why do we build a birdhouse when there are billions out there? Because we can. There are many debounce and trottle libraries. This one is mine.
+
+## Why would I use this one?
+You shouldn’t. Go to lodash or something.
 ## usage
 
 ## license
