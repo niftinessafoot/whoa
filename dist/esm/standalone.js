@@ -1,2 +1,0 @@
-function e(e){let n,t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1e3;return function(){if(!n){for(var l=arguments.length,r=new Array(l),o=0;o<l;o++)r[o]=arguments[o];e.call(null,...r),n=setTimeout((()=>{n=null}),t)}}}function n(e){let n,t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:1e3;return function(){for(var l=arguments.length,r=new Array(l),o=0;o<l;o++)r[o]=arguments[o];clearTimeout(n),n=setTimeout((()=>{e.call(null,...r)}),t)}}export{n as debounce,e as throttle};
-//# sourceMappingURL=standalone.js.map
