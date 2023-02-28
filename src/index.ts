@@ -1,5 +1,5 @@
 export type Timeout = ReturnType<typeof setTimeout>;
-export type Callback = () => void;
+export type Callback = (...args:unknown[]) => void;
 export type Args = unknown[];
 
 /**
