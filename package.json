@@ -4,6 +4,8 @@
   "description": "",
   "author": "Matthew Smith <code@niftinessafoot.com> (https://www.niftinessafoot.com)",
   "keywords": [
+    "throttle",
+    "debounce",
     "module",
     "typescript"
   ],
