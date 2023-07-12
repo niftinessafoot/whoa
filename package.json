@@ -47,11 +47,11 @@
   "browserslist": [
     "defaults"
   ],
-  "homepage": "https://www.niftinessafoot.com",
-  "bugs": "https://github.com/niftinessafoot/lineage/issues",
+  "homepage": "https://github.com/niftinessafoot/whoa",
+  "bugs": "https://github.com/niftinessafoot/whoa/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/niftinessafoot/lineage"
+    "url": "https://github.com/niftinessafoot/whoa"
   },
   "type": "module",
   "devDependencies": {
