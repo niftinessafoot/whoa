@@ -21,7 +21,6 @@
     "docs": "typedoc",
     "prep:umd": "node ./lib/init-umd-config.js"
   },
-  "entry": "index.ts",
   "files": [
     "dist/"
   ],
